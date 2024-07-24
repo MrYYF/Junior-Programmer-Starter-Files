@@ -15,7 +15,7 @@ public abstract class Unit : MonoBehaviour,UIMainScene.IUIInfoContent
     public float Speed = 3;
 
     protected NavMeshAgent m_Agent;
-    protected Building m_Target;
+    protected Building m_Target; //Building指资源点
 
     protected void Awake()
     {
