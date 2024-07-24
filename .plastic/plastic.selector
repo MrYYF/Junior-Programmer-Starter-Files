@@ -1,0 +1,4 @@
+repository "Junior Programmer Pathway@yyf_yyf@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
